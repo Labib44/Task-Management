@@ -7,7 +7,7 @@
 4. Redux Toolkit
 5. tailwindcss
 
-## Live : 
+## Live : https://64fb456dea09c41e41237cf1--relaxed-centaur-0e3073.netlify.app/
 
 ## Authentication 
 . Firebase
