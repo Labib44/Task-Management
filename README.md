@@ -1,5 +1,8 @@
 # Task Management System
 
+# Short Description
+This web application is exclusively designed for optimal performance and user experience on desktop devices.
+
 ## Technology
 1. React Js 18
 2. Node Js
